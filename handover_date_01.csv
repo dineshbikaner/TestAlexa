@@ -1,5 +1,4 @@
-incident,There are four Medium priority and one high priority incident in the queue on ,04/03/2018
 crq,There in no CRQ scheduled for today,04/03/2018
 critical defect,There was one criticial defect. Defect 1782 - There was issue with AMDD extracts as junk characters were going in APN field from TC during billing. Root cause was found to be data which was corrected,04/03/2018
-event,BMW retirement party for Sandy in Accounting,04/03/2018
-handover,Offshore handled 3 defects and 2 incidents which were closed end to end. There was one p1 incident which was handled timely, 04/03/2018
+open item,There are currently 8 open incidents, out of which SLA would be breached in 48 hours for 2 incidents. There is also one critical defect that needs to be handled.
+handover,DVCI handled 3 defects and 2 incidents which were closed end to end. There was one p1 incident which was handled timely, 04/03/2018

@@ -1,5 +1,5 @@
 crq,There in no change request scheduled for today,04/03/2018
-P1 defects,There is one P1 defect. Defect 1782 - There was issue with AMDD extracts as junk characters were going in APN field from TC during billing. Root cause is suspected to be data issue which needs to be checked further with interfacing applications,04/03/2018
+P1 defects,There is one P1 defect. Defect 1782 - There was issue with AMDD extracts during billing. Root cause is suspected to be data issue which needs to be checked with interfacing applications,04/03/2018
 open items,There are currently 8 open incidents out of which SLA would be breached in 48 hours for 2 incidents. There is also one P1 defect that needs to be handled , 04/03/2018
 handover,DVCI handled 3 defects and 2 incidents which were closed end to end. There was one p1 incident which was handled timely, 04/03/2018
 release,There are 2 merges pending for PBI 1001 and PBI 1002. HF testing result to be checked, 04/03/2018
